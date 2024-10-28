@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 <!--- Adding Header Elements -->
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/hareesh-s-s-7478b1257/">LinkedIn</a> - 
+  <a href="https://www.linkedin.com/in/hareesh-s-s-7478b1257/">LinkedIn</a> 
   
 </p>
